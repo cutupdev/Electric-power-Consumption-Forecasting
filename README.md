@@ -1,7 +1,7 @@
 # Energy Comsumption Prediction
 Wendeng Hu
 
-## Table of Contents
+## Outline
 * Introduction
 * Data Prepocessing
 * Feature Engineering
