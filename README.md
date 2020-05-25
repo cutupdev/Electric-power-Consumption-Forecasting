@@ -13,7 +13,7 @@ Modern building consume energy every day. Recently much investments aimed to imp
 
 The data is downloaded from kaggle [Great Energy Predictor III](https://www.kaggle.com/c/ashrae-energy-prediction/overview), which contains detailed energy usage information of over 1000 buildings over 3 years time. There are overall 20+ features including building geo locations, weather informations, meter consumptions... The train dataset has 20216100 observations (in year 2016) and test dataset has 41697600 observations (in year 2017 and 2018). Those information come in 5 seperate csv files.
 
-Because the datasets are very large, we save it in S3 in AWS. Here provides the link [storage of data](https://s3.console.aws.amazon.com/s3/buckets/mllabchh/?region=us-west-1&tab=overview)
+Because the datasets are very large, we save it in S3 in AWS.
 
 ## Data Prepocessing
    - [First look](https://github.com/huwendeng/Energy-comsumption-prediction/blob/master/First_look.ipynb)
