@@ -16,7 +16,7 @@ The data is downloaded from kaggle [Great Energy Predictor III](https://www.kagg
 Because the datasets are very large, we save it in S3 in AWS. Here provides the link [storage of data](https://s3.console.aws.amazon.com/s3/buckets/mllabchh/?region=us-west-1&tab=overview)
 
 ## Data Prepocessing
-   - [First look](https://github.com/JiaqiCChen123/energy-comsumption-prediction/blob/master/First_look.ipynb)
+   - [First look](https://github.com/huwendeng/Energy-comsumption-prediction/blob/master/First_look.ipynb)
 
 Firstly we take a general look into the raw data, and we find that there are **missing values** upon several feature about weather information. 
 As for the meter_reading, we find nearly **1/10 of the whole observation has zero values**, which is suspectable.
